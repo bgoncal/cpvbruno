@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-<!--
-**cpvbruno/cpvbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```swift
+import SoftwareDeveloper
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Bio: SoftwareDeveloper {
+  private let name     = "Bruno Pantaleão Gonçalves"
+  private let title    = "Software Engineer"
+  private let company  = "Freelance + Full-time @ ABN AMRO"
+  private let location = "Rotterdam, The Netherlands 🇳🇱"
+}
+```
