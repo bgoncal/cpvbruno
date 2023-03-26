@@ -3,7 +3,7 @@
 struct Bio {
     let name     = "Bruno Pantaleão Gonçalves"
     let title    = "iOS Engineer"
-    let company  = "Freelance + Full-time @ ABN AMRO"
+    let company  = "Panta Labs"
     let location = "Rotterdam, The Netherlands 🇳🇱"
 }
 ```
